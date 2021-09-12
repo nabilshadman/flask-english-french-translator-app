@@ -1,4 +1,10 @@
 import unittest
+import sys
+
+from pathlib import Path
+path = str(Path(Path(__file__).parent.absolute()).parent.absolute())
+sys.path.insert(0, path)
+
 from translator import french_to_english, english_to_french
 
 class TestTranslator(unittest.TestCase):
