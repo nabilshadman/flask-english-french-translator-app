@@ -1,6 +1,5 @@
-# flask-english-french-translator-app
+# Flask English-French Translator App
 
-A Flask web app that translates from english to french, and vice versa  
+A Flask web app that **translates** from english to french, and vice versa.  
   
-Check out the app below:    
-https://flaskenglishfrenchtranslatorapp.mybluemix.net/
+Check out the **app** [here](https://flaskenglishfrenchtranslatorapp.mybluemix.net/).  
